@@ -20,7 +20,4 @@
 ![自己紹介9](path/to/slide9.jpeg)
 +++
 ![自己紹介１0](path/to/slide10.jpeg)
-+++
-![自己紹介１1](path/to/slide11.jpeg)
-+++
 ---
