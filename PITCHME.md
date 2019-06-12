@@ -33,3 +33,31 @@
 +++
 ![zeze](path/to/zeze2.jpg)
 +++
+
+# データ入力  
+<font size="4">便利なショートカット</font>
+
++++
+### 日付入力  
+ショートカットキー(Windows)
+本日日付：「Ctrl」+「；」
+現在時刻：「Ctrl」+「：」
+ショートカットキー(mac)
+本日日付：「control」+「；」
+現在時刻：「command」+「：」
+
++++
+### データ編集 
+<font size="4">
+ショートカットキー(Windows)  
+切り取り：[Ctrl]+[X]  
+コピー：[Ctrl]+[C]  
+貼り付け：[Ctrl]+[V]  
+上の行をうつす：[Ctrl]+[d]  
+ショートカットキー(Mac)  
+切り取り：[command]+[X]  
+コピー：[command]+[C]  
+貼り付け：[command]+[V]  
+上の行をうつす：[command]+[d]    
+ もっと知りたい方はExcel ショートカット　でグーグル先生に聞いてください。
+ </font>
