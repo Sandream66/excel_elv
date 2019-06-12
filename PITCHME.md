@@ -63,7 +63,7 @@
 
 +++
 ### 一括入力 
-![zeze](path/to/ikkatu.jpg)
+<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namae.jpeg" width=70%>
 
 
 +++
