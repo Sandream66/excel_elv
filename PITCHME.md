@@ -84,4 +84,4 @@
 +++
 # [今日の資料](http://gf4.work/ZerM)   
 
-![DL](path/to/dl.jpg)
+![DL](path/to/dl.jpg) 
