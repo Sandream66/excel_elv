@@ -59,7 +59,12 @@
 貼り付け：[command]+[V]  
 上の行をうつす：[command]+[d]       </font></details>
 
-<font size="4">もっと知りたい方はExcel ショートカット　でグーグル先生に聞いてください。</font>
+
++++
+### 元の場所にもどる
+<font size="4">[Ctrl]+[Backspace]    
+
+もっと知りたい人は　Excel　ショートカット　でGoogle先生に聞いてください。</font>
 
 +++
 ### 一括入力 
