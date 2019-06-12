@@ -63,8 +63,7 @@
 
 +++
 ### 一括入力 
-<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namae.jpeg" width=70%>
-
+![zeze](path/to/ikkatu.jpg)
 
 +++
 ### 一括入力2
@@ -72,4 +71,4 @@
 
 +++
 ### 名前付け  
-![zeze](path/to/namae.jpg)
+<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namae.jpeg" width=70%>
