@@ -67,5 +67,5 @@
 
 
 +++
-### 一括入力 
-![zeze](path/to/ikkatu2.jpg)
+### 一括入力2
+![zeze](path/to/ikkatu2.png)
