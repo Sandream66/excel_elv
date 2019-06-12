@@ -31,3 +31,5 @@
 +++
 ![zeze](path/to/zeze.jpg)
 +++
+![zeze](path/to/zeze2.jpg)
++++
