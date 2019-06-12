@@ -69,3 +69,7 @@
 +++
 ### 一括入力2
 ![zeze](path/to/ikkatu2.png)
+
++++
+### 名前付け  
+![zeze](path/to/namae.jpg)
