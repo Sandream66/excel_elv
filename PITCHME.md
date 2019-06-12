@@ -1,6 +1,8 @@
-[今日の資料](http://gf4.work/ZerM)   
+# [今日の資料](http://gf4.work/ZerM)   
 
 ![DL](path/to/dl.jpg)
+
++++
 
 # <font color="green">Excelを楽しもう</font>
 
