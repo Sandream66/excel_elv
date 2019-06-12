@@ -77,3 +77,7 @@
 +++
 ### 名前付け  
 <img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namae.jpg" width=60%>
+
++++
+### 名前の管理  
+<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namaekanri.jpg" width=60%>
