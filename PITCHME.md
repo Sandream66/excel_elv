@@ -43,7 +43,7 @@
 <font size="4">本日日付：「Ctrl」+「；」  
 現在時刻：「Ctrl」+「：」   </font></details>
 <details><summary><font size="4">ショートカットキー(Mac)</font></summary>  
-<font size="4">本日日付：「command」+「；」  
+<font size="4">本日日付：「Ctrl」+「；」  
 現在時刻：「command」+「：」   </font></details>
 
 +++
