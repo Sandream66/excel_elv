@@ -64,3 +64,8 @@
 +++
 ### 一括入力 
 ![zeze](path/to/ikkatu.jpg)
+
+
++++
+### 一括入力 
+![zeze](path/to/ikkatu2.jpg)
