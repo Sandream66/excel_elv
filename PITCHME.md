@@ -39,25 +39,24 @@
 
 +++
 ### 日付入力  
-<details><summary><font size="4">ショートカットキー(Windows)  </font></summary>  
+<details><summary><font size="4">ショートカットキー(Windows)</font></summary>  
 <font size="4">本日日付：「Ctrl」+「；」  
 現在時刻：「Ctrl」+「：」   </font></details>
-<details><summary><font size="4">ショートカットキー(Mac)  </font></summary>  
+<details><summary><font size="4">ショートカットキー(Mac)</font></summary>  
 <font size="4">本日日付：「command」+「；」  
 現在時刻：「command」+「：」   </font></details>
 
 +++
 ### データ編集 
-<details><summary><font size="4">ショートカットキー(Windows)  </font></summary>  
+<details><summary><font size="4">ショートカットキー(Windows)</font></summary>  
 <font size="4">切り取り：[Ctrl]+[X]  
 コピー：[Ctrl]+[C]  
 貼り付け：[Ctrl]+[V]  
 上の行をうつす：[Ctrl]+[d]   </font></details>
-<details><summary><font size="4">ショートカットキー(Mac)  </font></summary>  
+<details><summary><font size="4">ショートカットキー(Mac)</font></summary>  
 <font size="4">切り取り：[command]+[X]  
 コピー：[command]+[C]  
 貼り付け：[command]+[V]  
 上の行をうつす：[command]+[d]       </font></details>
 
- もっと知りたい方はExcel ショートカット　でグーグル先生に聞いてください。
- </font>
+<font size="4">もっと知りたい方はExcel ショートカット　でグーグル先生に聞いてください。</font>
