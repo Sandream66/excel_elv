@@ -71,4 +71,4 @@
 
 +++
 ### 名前付け  
-<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namae.jpeg" width=70%>
+<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namae.jpg" width=70%>
