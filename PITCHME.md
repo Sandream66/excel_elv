@@ -48,12 +48,12 @@
 
 +++
 ### データ編集 
-<details><summary><font size="4">ショートカットキー(Windows)</font></summary>  
+<details><summary><font size="4">ショートカットキー(Windows)</font></summary>
 <font size="4">切り取り：[Ctrl]+[X]  
 コピー：[Ctrl]+[C]  
 貼り付け：[Ctrl]+[V]  
 上の行をうつす：[Ctrl]+[d]   </font></details>
-<details><summary><font size="4">ショートカットキー(Mac)</font></summary>  
+<details><summary><font size="4">ショートカットキー(Mac)</font></summary>
 <font size="4">切り取り：[command]+[X]  
 コピー：[command]+[C]  
 貼り付け：[command]+[V]  
