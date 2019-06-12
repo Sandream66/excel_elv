@@ -27,3 +27,7 @@
 +++
 ![自己紹介](path/to/slide10.jpeg)
 ---
+![excel_evl](path/to/excel_elv.png)
++++
+![zeze](path/to/zeze.jpg)
++++
