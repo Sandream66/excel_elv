@@ -39,14 +39,14 @@
 
 +++
 ### 日付入力  
-<font size="4">
-ショートカットキー(Windows)  
-本日日付：「Ctrl」+「；」  
-現在時刻：「Ctrl」+「：」  
-ショートカットキー(mac)  
-本日日付：「control」+「；」  
-現在時刻：「command」+「：」  
-</font>
+
+ <details><summary><font size="4">ショートカットキー(Windows)  </font></summary>  
+<font size="4">本日日付：「Ctrl」+「；」  
+現在時刻：「Ctrl」+「：」   </font></details>
+ <details><summary><font size="4">ショートカットキー(Mac)  </font></summary>  
+<font size="4">本日日付：「command」+「；」  
+現在時刻：「command」+「：」   </font></details>
+
 +++
 ### データ編集 
 <font size="4">
