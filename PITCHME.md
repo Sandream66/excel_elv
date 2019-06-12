@@ -80,7 +80,7 @@
 
 +++
 ### 名前の管理  
-<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namaekanri.jpg" width=60%>
+<img src="https://raw.githubusercontent.com/Sandream66/excel_elv/master/path/to/namaekanri.jpg" width=%>
 +++
 # [今日の資料](http://gf4.work/ZerM)   
 
