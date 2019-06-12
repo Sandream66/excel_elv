@@ -60,3 +60,7 @@
 上の行をうつす：[command]+[d]       </font></details>
 
 <font size="4">もっと知りたい方はExcel ショートカット　でグーグル先生に聞いてください。</font>
+
++++
+### 一括入力 
+![zeze](path/to/ikkatu.jpg)
