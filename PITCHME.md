@@ -1,3 +1,7 @@
+[今日の資料](http://gf4.work/ZerM)   
+
+![DL](path/to/dl.jpg)
+
 # <font color="green">Excelを楽しもう</font>
 
 ![excel_evl](path/to/excel_elv.png)
@@ -19,5 +23,5 @@
 +++
 ![自己紹介9](path/to/slide9.jpeg)
 +++
-![自己紹介１0](path/to/slide10.jpeg)
+![自己紹介](path/to/slide10.jpeg)
 ---
